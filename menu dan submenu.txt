@@ -1,0 +1,150 @@
+🍽️ Menu & Submenu
+Menu 1: Makanan Nusantara
+
+Submenu A: Hidangan Utama
+
+Nasi Goreng Spesial
+
+Rendang Padang
+
+Sate Ayam Madura
+
+Mie Ayam Bakso
+
+Ayam Penyet
+
+Sop Buntut
+
+Submenu B: Makanan Ringan
+
+Pisang Goreng
+
+Tahu Isi
+
+Tempe Mendoan
+
+Martabak Telur
+
+Bakwan Jagung
+
+Lumpia Semarang
+
+Menu 2: Makanan Internasional
+
+Submenu A: Hidangan Barat
+
+Spaghetti Bolognese
+
+Burger Keju
+
+Pizza Pepperoni
+
+Steak Sapi
+
+Hotdog
+
+Lasagna
+
+Submenu B: Hidangan Asia
+
+Sushi Roll
+
+Ramen Jepang
+
+Kimchi Korea
+
+Tom Yum Thailand
+
+Pho Vietnam
+
+Dim Sum Cina
+
+Menu 3: Minuman Segar
+
+Submenu A: Minuman Dingin
+
+Es Teh Manis
+
+Es Jeruk
+
+Jus Alpukat
+
+Jus Mangga
+
+Es Kopi Susu
+
+Es Cendol
+
+Submenu B: Minuman Hangat
+
+Teh Hangat
+
+Kopi Tubruk
+
+Wedang Jahe
+
+Susu Jahe
+
+Teh Tarik
+
+Bandrek
+
+Menu 4: Paket Hemat
+
+Submenu A: Paket Makan Siang
+
+Nasi + Ayam Goreng
+
+Nasi + Ikan Bakar
+
+Nasi + Rendang
+
+Nasi + Sate Ayam
+
+Nasi + Mie Goreng
+
+Nasi + Sop Ayam
+
+Submenu B: Paket Makan Malam
+
+Nasi + Ayam Penyet
+
+Nasi + Bebek Goreng
+
+Nasi + Gulai Kambing
+
+Nasi + Udang Saus Padang
+
+Nasi + Ayam Rica-Rica
+
+Nasi + Ikan Asam Manis
+
+Menu 5: Spesial Warung Finz
+
+Submenu A: Menu Musiman
+
+Nasi Goreng Ramadhan
+
+Es Buah Segar Lebaran
+
+Ketupat Sayur
+
+Kolak Pisang
+
+Ayam Bakar Tahun Baru
+
+Sop Iga Spesial Natal
+
+Submenu B: Menu Favorit
+
+Nasi Goreng Spesial
+
+Sate Ayam Madura
+
+Mie Ayam Bakso
+
+Jus Alpukat
+
+Es Teh Manis
+
+Rendang Padang
