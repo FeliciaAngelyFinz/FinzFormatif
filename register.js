@@ -13,5 +13,5 @@ document.getElementById("registerForm").addEventListener("submit", function(even
 
   alert("Registrasi berhasil!\nSelamat datang, " + username);
 
-  window.location.href = "index.html";
+  window.location.href = "home.html";
 });
