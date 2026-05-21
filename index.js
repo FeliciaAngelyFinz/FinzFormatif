@@ -1,3 +1,3 @@
 function Register() {
-  window.location.href = "home.html";
+  window.location.href = "registerr.html";
 }
